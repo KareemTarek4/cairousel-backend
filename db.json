@@ -1,6 +1,4 @@
-{
-  "products" : 
-
+"products" : [
   {
     "id":1,
     "name" : "Big Jacket",
@@ -14,11 +12,11 @@
     "availability" : {
       "small" : {
         "amber" : 0,
-        "maroon":5,
+        "maroon":5
       },
       "large" : {
         "amber" : 1,
-        "maroon":5,
+        "maroon":5
       },
       "maroon" : {
         "large" : 5,
@@ -31,6 +29,5 @@
     },
     "related_products" : {},
   }
-
-}
+]
 
