@@ -1,0 +1,32 @@
+{
+  "products" : {
+    "-KpP21Ps66V_Vdpnyx97" : {
+      "availability" : {
+        "default" : {
+          "default" : 0
+        }
+      },
+      "brand" : "Boss",
+      "category" : "-KoqTxyMoZJohjoFldCV",
+      "colors" : {
+        "amber" : {
+          "hex" : "FFC107"
+        },
+        "maroon" : {
+          "hex" : "C01313"
+        }
+      },
+      "description" : "Nice Jacket",
+      "gender" : "male",
+      "id" : "-KpP21Ps66V_Vdpnyx97",
+      "name" : "Big Jacket",
+      "owner" : "fG3fD0jqC5YSHGXPqmX1WSDnYo03",
+      "photos" : {
+        "default" : [ "1500454330287" ]
+      },
+      "price" : "150",
+      "related_products" : [ "-KpuLDMR9D6NauZFXrIP" ],
+      "sizes" : [ "large" ]
+    }
+  }
+}
