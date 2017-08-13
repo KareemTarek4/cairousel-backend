@@ -10,6 +10,8 @@
     "sizes" : ["small", "large" ],
     "colors" : ["amber", "maroon" ],
     "default_color":"amber",
+    "number_of_rating":0,
+    "rating":0,
     "availability" : {
       "small" : {
         "amber" : 0,
@@ -27,7 +29,8 @@
         "large":1,
         "small":0
       }
-    }
+    },
+    " "
   }
 ]
 
