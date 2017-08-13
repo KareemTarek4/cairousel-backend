@@ -6,7 +6,71 @@
     "brand" : {
       "name":"Boss",
       "id":1 },
-    "price" : "150",
+    "price" : "200",
+    "sizes" : ["small", "large" ],
+    "colors" : ["amber", "maroon" ],
+    "default_color":"amber",
+    "number_of_rating":0,
+    "rating":0,
+    "availability" : {
+      "small" : {
+        "amber" : 0,
+        "maroon":5
+      },
+      "large" : {
+        "amber" : 1,
+        "maroon":5
+      },
+      "maroon" : {
+        "large" : 5,
+        "small": 5
+      },
+      "amber":{
+        "large":1,
+        "small":0
+      }
+    }
+  },
+
+  {
+    "id":2,
+    "name" : "Leather Jacket",
+    "brand" : {
+      "name":"Boss",
+      "id":1 },
+    "price" : "500",
+    "sizes" : ["small", "large" ],
+    "colors" : ["amber", "maroon" ],
+    "default_color":"amber",
+    "number_of_rating":0,
+    "rating":0,
+    "availability" : {
+      "small" : {
+        "amber" : 0,
+        "maroon":5
+      },
+      "large" : {
+        "amber" : 1,
+        "maroon":5
+      },
+      "maroon" : {
+        "large" : 5,
+        "small": 5
+      },
+      "amber":{
+        "large":1,
+        "small":0
+      }
+    }
+  },
+  
+  {
+    "id":3,
+    "name" : "Red Heels",
+    "brand" : {
+      "name":"Zara",
+      "id":1 },
+    "price" : "300",
     "sizes" : ["small", "large" ],
     "colors" : ["amber", "maroon" ],
     "default_color":"amber",
